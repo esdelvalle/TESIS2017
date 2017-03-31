@@ -38,7 +38,6 @@ CREATE TABLE `persona` (
 
 ALTER TABLE `persona`
   ADD PRIMARY KEY (`id_persona`),
-  ADD KEY `id_localidad` (`id_localidad`);
 
 
 ALTER TABLE `persona`
